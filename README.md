@@ -10,7 +10,7 @@ Fork this repository and complete the following tasks:
 - Setup PostgreSQL and create a table in a database, and experiment with different datatypes to be inserted a d test it by inserting into it and then fetching back the data. (See extra.txt in the above repo link for an example)
 
 
-### Subtask3
+### Subtask3 (optional)
 - Create a model and corresponding views to fetch(GET) and insert(POST) into the table. 
 
 ### Subtask4
